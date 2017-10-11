@@ -1,10 +1,9 @@
 def create_an_empty_array
   friends = ["Alex", "Cristian", "Levi", "Abel"]
-  friends
 end
 
 def create_an_array
-
+  friends = ["Alex", "Cristian", "Levi", "Abel"]
 end
 
 def add_element_to_end_of_array(array, element)
