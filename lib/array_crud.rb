@@ -1,5 +1,6 @@
 def create_an_empty_array
   friends = ["Alex", "Cristian", "Levi", "Abel"]
+  friends
 end
 
 def create_an_array
